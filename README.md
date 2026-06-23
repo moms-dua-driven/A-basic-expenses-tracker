@@ -1,2 +1,2 @@
-# An-expenses-tracker
-An expenses tracker to track your spending along a month so you don't forget your eternal goal..
+# A-basic-expenses-tracker
+An basic expenses tracker to track your spending along a month so you don't forget your eternal goal..
